@@ -6,3 +6,4 @@
 ![CI](https://github.com/<McLaudDV>/<1-env>/actions/workflows/web.yml/badge.svg)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/i7dnhp9kajxfs7y6?svg=true)](https://ci.appveyor.com/project/McLaudDV/1-env)
+[![Build status](https://ci.appveyor.com/api/projects/status/i7dnhp9kajxfs7y6?svg=true)](https://ci.appveyor.com/project/McLaudDV/1-env)
